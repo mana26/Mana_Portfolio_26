@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mana_Portfolio_26/static/css/main.c472a55e.css",
+    "main.js": "/Mana_Portfolio_26/static/js/main.52d8a24f.js",
+    "static/media/InstitueApp.png": "/Mana_Portfolio_26/static/media/InstitueApp.b0d19198e15ecc36e9b4.png",
+    "static/media/realestate.jpg": "/Mana_Portfolio_26/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/FoodApp.png": "/Mana_Portfolio_26/static/media/FoodApp.98f4ed7d0e870836f2aa.png",
+    "static/media/Manali_Shanawade.pdf": "/Mana_Portfolio_26/static/media/Manali_Shanawade.91875fc959a0b31dea38.pdf",
+    "static/media/workImg.jpeg": "/Mana_Portfolio_26/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/Mana_Portfolio_26/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/wordpress.png": "/Mana_Portfolio_26/static/media/wordpress.f8d6026668075782867a.png",
+    "static/media/node.png": "/Mana_Portfolio_26/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/bootstrap.png": "/Mana_Portfolio_26/static/media/bootstrap.9860de71a5befa47c15b.png",
+    "static/media/github.png": "/Mana_Portfolio_26/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo.png": "/Mana_Portfolio_26/static/media/logo.9012ad63e33fbe107594.png",
+    "static/media/html.png": "/Mana_Portfolio_26/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Mana_Portfolio_26/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Mana_Portfolio_26/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/Mana_Portfolio_26/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/Mana_Portfolio_26/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Mana_Portfolio_26/index.html",
+    "main.c472a55e.css.map": "/Mana_Portfolio_26/static/css/main.c472a55e.css.map",
+    "main.52d8a24f.js.map": "/Mana_Portfolio_26/static/js/main.52d8a24f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c472a55e.css",
+    "static/js/main.52d8a24f.js"
+  ]
+}
